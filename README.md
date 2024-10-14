@@ -1,8 +1,5 @@
-[
-(https://www.canva.com/design/DAGTkBYcNTY/sliUl1xsf6uyznRYT-KdHg/view?utm_content=DAGTkBYcNTY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-
-]
-- 👋 Hi, I’m @melendezgabriela
+<img width="1454" alt="Screenshot 2024-10-14 at 1 02 24 PM" src="https://github.com/user-attachments/assets/8e3f0b4d-0221-46ee-ba32-b0082159786c">
+dezgabriela
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
